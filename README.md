@@ -11,13 +11,14 @@
 
 <h2>:scroll: Certification:</h2>
 
-- [Associate Cloud Engineer - Google Cloud Platform](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Associate Cloud Engineer - Google Cloud Platform](https://google.accredible.com/85959184-b9c5-47ef-960e-2157f66fef7c?record_view=true)
 - [Azure Data Engineer Associate(DP-203) - Microsoft](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [● Azure Fundamentals(AZ-900) - Microsoft ](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Azure Fundamentals(AZ-900) - Microsoft ](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [ZSecurity Learn Ethical Hacking From Scratch. (Information Security, Cyber Security, Networking](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Prepinsta AI and ML Nano Degree](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [NPTEL Big Data Computing](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [The D'Zine Studio's Web Development Training](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [The D'Zine Studio's Python Training](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 
