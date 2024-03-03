@@ -1,4 +1,5 @@
 <h1>Hi, I'm Amol! </h1>
+<h2>Programmer, Data Scientist and CyberSecurity Enthusiast </h2>
 
 <h2>👨‍💻 Projects:</h2>
 
