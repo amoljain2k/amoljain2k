@@ -14,11 +14,11 @@
 - [Associate Cloud Engineer - Google Cloud Platform](https://google.accredible.com/85959184-b9c5-47ef-960e-2157f66fef7c?record_view=true)
 - [Azure Data Engineer Associate(DP-203) - Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/AmolJain-7522/2A000CB678C374B9?sharingId=DE324F9848AF1487)
 - [Azure Fundamentals(AZ-900) - Microsoft ](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [ZSecurity Learn Ethical Hacking From Scratch. (Information Security, Cyber Security, Networking](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Prepinsta AI and ML Nano Degree](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [NPTEL Big Data Computing](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [The D'Zine Studio's Web Development Training](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [The D'Zine Studio's Python Training](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- ZSecurity Learn Ethical Hacking From Scratch
+- Prepinsta AI and ML Nano Degree
+- NPTEL Big Data Computing
+- The D'Zine Studio's Web Development Training
+- The D'Zine Studio's Python Training
 
 
 
