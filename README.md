@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Product Sales]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/amoljain2k/Product-Sales-and-Financial-Performance-Analysis-using-PowerBi)) 
+- [Product Sales and Financial Performance Analysis using Power BI](https://github.com/amoljain2k/Product-Sales-and-Financial-Performance-Analysis-using-PowerBi)
  
-- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- [Password Strength Prediction using Logistic Regression](https://github.com/amoljain2k/Passwords-Strength-Prediction)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
