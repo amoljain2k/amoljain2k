@@ -12,7 +12,7 @@
 
 <h2>:scroll: Certification:</h2>
 
-- [Power BI Data Analyst Associate - Microsoft]([https://learn.microsoft.com/api/credentials/share/en-us/AmolJain-7522/2A000CB678C374B9?sharingId=DE324F9848AF1487](https://learn.microsoft.com/en-us/users/amoljain-7522/credentials/certification/data-analyst-associate?tab=credentials-tab))
+- [Power BI Data Analyst Associate(PL-300) - Microsoft](https://learn.microsoft.com/en-us/users/amoljain-7522/credentials/certification/data-analyst-associate?tab=credentials-tab)
 - [Associate Cloud Engineer - Google Cloud Platform](https://google.accredible.com/85959184-b9c5-47ef-960e-2157f66fef7c?record_view=true)
 - [Azure Data Engineer Associate(DP-203) - Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/AmolJain-7522/2A000CB678C374B9?sharingId=DE324F9848AF1487)
 - Azure Fundamentals(AZ-900) - Microsoft 
