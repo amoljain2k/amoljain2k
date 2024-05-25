@@ -3,6 +3,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- [AI Content Generator Using LLM Model LLama2](https://github.com/amoljain2k/AI-Content-Generator-Using-LLM-Model-Llama2)
+
 - [Product Sales and Financial Performance Analysis using Power BI](https://github.com/amoljain2k/Product-Sales-and-Financial-Performance-Analysis-using-PowerBi)
  
 - [Password Strength Prediction using Logistic Regression](https://github.com/amoljain2k/Passwords-Strength-Prediction)
