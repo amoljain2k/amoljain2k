@@ -3,6 +3,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- [NLP Chatbot using GCP Dialogflow, FastAPI and MySQL(FullStack)](https://github.com/amoljain2k/NLP-Chatbot-with-Dialogflow-FastAPI-MySQL-FullStack)
+
 - [AI Content Generator Using LLM Model LLama2](https://github.com/amoljain2k/AI-Content-Generator-Using-LLM-Model-Llama2)
 
 - [Product Sales and Financial Performance Analysis using Power BI](https://github.com/amoljain2k/Product-Sales-and-Financial-Performance-Analysis-using-PowerBi)
